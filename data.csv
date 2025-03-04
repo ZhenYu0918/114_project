@@ -99,3 +99,532 @@ MMSI,MID,Received_Time,Vessel_Name,Latitude,Longitude,COG,SOG,IMO_Number,Longitu
 416004697,Taiwan (Province of China),20/02/2025 16:00:20,KAO 505,22.6102,120.2726,137.9,0,967097500,120? 16.356' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
 416005003,Taiwan (Province of China),20/02/2025 16:00:21,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.726' E,22? 32.805' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
 416011751,Taiwan (Province of China),20/02/2025 16:00:21,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416006765,Taiwan (Province of China),20/02/2025 16:00:21,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.897' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416459000,Taiwan (Province of China),20/02/2025 16:00:21,UNI PROSPER,22.5401,120.3068,256,4.7,,120? 18.410' E,22? 32.407' N,284,,,,
+416008938,Taiwan (Province of China),20/02/2025 16:00:21,TIMP NO.15005,22.5875,120.2932,358.5,2.3,0,120? 17.593' E,22? 35.250' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+356398000,Panama (Republic of),20/02/2025 16:00:22,PACIFIC WIND,22.6098,120.2861,266.6,0,9883508,120? 17.169' E,22? 36.586' N,117,32,199,TW KHH              ,Cargo-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:00:22,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+576638000,Vanuatu (Republic of),20/02/2025 16:00:22,LONGBOW NO.7,22.603,120.2862,13.7,0,8956683,120? 17.173' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416002974,Taiwan (Province of China),20/02/2025 16:00:22,DONG LIAN NO.8,22.5963,120.2999,349.1,0,0,120? 17.991' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+677054600,Tanzania (United Republic of),20/02/2025 16:00:22,CHENG TAI,22.5819,120.2958,251,0,8854122,120? 17.750' E,22? 34.914' N,511,12,63,NINGBO@@@@@@@@@@@@@@,Cargo-all ships of this type
+416126600,Taiwan (Province of China),20/02/2025 16:00:22,YU DING N0 303,22.5857,120.3038,360,0,0,120? 18.230' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416004191,Taiwan (Province of China),20/02/2025 16:00:22,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.058' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416008937,Taiwan (Province of China),20/02/2025 16:00:23,TIPM NO.15003,22.5894,120.2924,148.3,4.3,0,120? 17.546' E,22? 35.362' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+629009312,Gambia (Republic of the),20/02/2025 16:00:24,XIN YUAN,22.5818,120.2957,296,0.1,9126106,120? 17.740' E,22? 34.910' N,232,15,85,KOHSIUNG            ,Cargo-all ships of this type
+416005473,Taiwan (Province of China),20/02/2025 16:00:24,CHUNG YU16,22.585,120.3017,62.5,0,9820063,120? 18.102' E,22? 35.101' N,511,11,37,@@@@@@@@@@@@@@@@@@@@,Tanker-all ships of this type
+416000021,Taiwan (Province of China),20/02/2025 16:00:24,YU MING NO:288,22.5854,120.3028,360,0,0,120? 18.166' E,22? 35.121' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416362000,Taiwan (Province of China),20/02/2025 16:00:24,BAO SHAN NO.3,22.5575,120.316,300.7,0,9276456,120? 18.959' E,22? 33.449' N,322,18,90,KAOHSIUNG@@@@@@@@@@@,Tanker-all ships of this type
+416004261,Taiwan (Province of China),20/02/2025 16:00:24,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.185' E,22? 35.132' N,64,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416005047,Taiwan (Province of China),20/02/2025 16:00:25,TIPM NO.13401,22.5338,120.303,283.9,0,0,120? 18.180' E,22? 32.027' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416459000,Taiwan (Province of China),20/02/2025 16:00:25,UNI PROSPER,22.5401,120.3067,259,4.7,,120? 18.404' E,22? 32.407' N,286,,,,
+416006146,Taiwan (Province of China),20/02/2025 16:00:25,HUNG YI NO.2,22.546,120.3057,48.1,0,0,120? 18.342' E,22? 32.760' N,511,12,32,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+306045000,Netherlands Antilles,20/02/2025 16:00:25,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.660' N,0,9,53,KHH                 ,Cargo-all ships of this type
+416004115,Taiwan (Province of China),20/02/2025 16:00:25,DAH LIN NO.9,22.5389,120.3359,360,0,0,120? 20.155' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+457556000,Mongolia,20/02/2025 16:00:25,EVER  DELIGHT,91,181,360,102.3,8358661,Not available (default),Not available (default),511,16,96,KAOHSIUNG           ,Cargo-all ships of this type
+416000017,Taiwan (Province of China),20/02/2025 16:00:25,YU TAI NO.403,22.5965,120.2877,169.5,8.3,0,120? 17.262' E,22? 35.792' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+510069000,Micronesia (Federated States of),20/02/2025 16:00:25,QUEEN ISABELLA 88,22.6135,120.2719,308.9,0,0,120? 16.315' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+677011100,Tanzania (United Republic of),20/02/2025 16:00:25,HAI FA,22.582,120.2955,268.5,0,9072991,120? 17.727' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+416005437,Taiwan (Province of China),20/02/2025 16:00:25,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.633' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+457601000,Mongolia,20/02/2025 16:00:26,MACRO,22.5999,120.2816,205.4,0,0,120? 16.895' E,22? 35.993' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+538010853,Marshall Islands (Republic of the),20/02/2025 16:00:26,FAIRCHEM PATHFINDER,22.589,120.2928,148,4.3,9975301,120? 17.567' E,22? 35.343' N,150,27,158,TW KHH              ,Tanker-all ships of this type
+416004047,Taiwan (Province of China),20/02/2025 16:00:26,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416004524,Taiwan (Province of China),20/02/2025 16:00:26,YU JING 245,22.6176,120.2794,360,0,0,120? 16.761' E,22? 37.054' N,511,9,54,@@@@@@@@@@@@@@@@@@@@,Tug
+416015927,Taiwan (Province of China),20/02/2025 16:00:26,KAO 506,22.6138,120.2881,183.4,0.1,0,120? 17.286' E,22? 36.827' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+667001736,Sierra Leone,20/02/2025 16:00:27,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005437,Taiwan (Province of China),20/02/2025 16:00:27,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.633' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:00:27,GLORY TIANJIN,22.5287,120.2141,72.5,3.1,,120? 12.844' E,22? 31.722' N,75,,,,
+416459000,Taiwan (Province of China),20/02/2025 16:00:28,UNI PROSPER,22.5401,120.3067,262,4.6,,120? 18.401' E,22? 32.406' N,287,,,,
+416004697,Taiwan (Province of China),20/02/2025 16:00:28,KAO 505,22.6102,120.2726,137.9,0,967097500,120? 16.356' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416008845,Taiwan (Province of China),20/02/2025 16:00:29,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.640' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+416000095,Taiwan (Province of China),20/02/2025 16:00:29,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.783' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+477893900,Hong Kong (Special Administrative Region of China),20/02/2025 16:00:29,SNL NANTONG,22.5576,120.3268,86,0,9936898,120? 19.608' E,22? 33.455' N,52,23,147,TWKHH               ,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:00:29,FORMOSA NO.8,22.5996,120.2826,360,0,0,120? 16.958' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+563245300,Singapore (Republic of),20/02/2025 16:00:29,EVER MOST,22.5467,120.2892,281.7,7.2,,120? 17.352' E,22? 32.802' N,280,,,,
+306406000,Netherlands Antilles,20/02/2025 16:00:30,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.697' N,224,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416004697,Taiwan (Province of China),20/02/2025 16:00:30,KAO 505,22.6102,120.2726,96.7,0,967097500,120? 16.356' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+667001467,Sierra Leone,20/02/2025 16:00:30,VINCENT 2,22.6022,120.2829,301.5,0.1,9121039,120? 16.974' E,22? 36.135' N,142,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+511101274,Palau (Republic of),20/02/2025 16:00:30,HONG LI,22.6034,120.2821,260.2,0.1,9036894,120? 16.924' E,22? 36.202' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006752,Taiwan (Province of China),20/02/2025 16:00:30,TA YU,22.5946,120.291,316.7,0,0,120? 17.462' E,22? 35.677' N,339,13,76,KINMEN              ,Cargo-all ships of this type
+563126100,Singapore (Republic of),20/02/2025 16:00:30,GLORY MAJESTY,22.5948,120.242,232.4,0,9894026,120? 14.522' E,22? 35.690' N,31,19,104,KAOHSIUNG           ,Cargo-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:00:31,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.129' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+351366000,Panama (Republic of),20/02/2025 16:00:31,HEUNG-A PIONEER,22.5933,120.2888,13,0.1,9415478,120? 17.327' E,22? 35.595' N,146,21,125,TWKHH               ,Tanker-all ships of this type
+416005048,Taiwan (Province of China),20/02/2025 16:00:31,TIPM NO.13402,22.5413,120.3076,292.1,7.9,0,120? 18.458' E,22? 32.476' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416247700,Taiwan (Province of China),20/02/2025 16:00:31,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416459000,Taiwan (Province of China),20/02/2025 16:00:31,UNI PROSPER,22.5401,120.3066,266,4.6,,120? 18.396' E,22? 32.406' N,289,,,,
+416006765,Taiwan (Province of China),20/02/2025 16:00:31,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.897' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416002974,Taiwan (Province of China),20/02/2025 16:00:31,DONG LIAN NO.8,22.5963,120.2999,349.1,0,0,120? 17.991' E,22? 35.775' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416008938,Taiwan (Province of China),20/02/2025 16:00:31,TIMP NO.15005,22.5876,120.2932,359.3,1.2,0,120? 17.594' E,22? 35.254' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+375186000,Saint Vincent and the Grenadines,20/02/2025 16:00:32,SALVAGE ROVER,22.6135,120.2723,168.2,0,9257515,120? 16.339' E,22? 36.809' N,122,15,64,KHH TW              ,Tug
+677054600,Tanzania (United Republic of),20/02/2025 16:00:32,CHENG TAI,22.5819,120.2958,251,0,8854122,120? 17.750' E,22? 34.914' N,511,12,63,NINGBO@@@@@@@@@@@@@@,Cargo-all ships of this type
+416126600,Taiwan (Province of China),20/02/2025 16:00:32,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416006752,Taiwan (Province of China),20/02/2025 16:02:06,TA YU,22.5947,120.2911,71.8,0,0,120? 17.467' E,22? 35.680' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416006146,Taiwan (Province of China),20/02/2025 16:02:06,HUNG YI NO.2,22.546,120.3057,48.1,0,0,120? 18.341' E,22? 32.758' N,511,12,32,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+306045000,Netherlands Antilles,20/02/2025 16:02:06,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.436' E,22? 36.660' N,0,9,53,KHH                 ,Cargo-all ships of this type
+667001736,Sierra Leone,20/02/2025 16:02:07,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416015927,Taiwan (Province of China),20/02/2025 16:02:07,KAO 506,22.6138,120.2881,183.4,0.1,0,120? 17.286' E,22? 36.825' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416003923,Taiwan (Province of China),20/02/2025 16:02:07,KAO NO.112,22.5952,120.2884,145.8,5.9,0,120? 17.302' E,22? 35.714' N,511,14,89,KOH                 ,Tug
+416459000,Taiwan (Province of China),20/02/2025 16:02:08,UNI PROSPER,22.5407,120.3044,292,5,,120? 18.266' E,22? 32.443' N,294,,,,
+416003885,Taiwan (Province of China),20/02/2025 16:02:08,SHING FU,22.6197,120.2699,360,0.2,0,120? 16.194' E,22? 37.183' N,174,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+306406000,Netherlands Antilles,20/02/2025 16:02:09,XING YUN 101,22.5949,120.2833,125.6,0,0,120? 16.997' E,22? 35.697' N,226,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416008845,Taiwan (Province of China),20/02/2025 16:02:09,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+511101274,Palau (Republic of),20/02/2025 16:02:09,HONG LI,22.6034,120.2821,8.8,0.1,9036894,120? 16.926' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:02:10,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416000018,Taiwan (Province of China),20/02/2025 16:02:10,FORMOSA NO.8,22.5997,120.2826,360,0,0,120? 16.958' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416000095,Taiwan (Province of China),20/02/2025 16:02:10,YIN LIAN,22.5964,120.2898,154.6,0.1,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+563245300,Singapore (Republic of),20/02/2025 16:02:10,EVER MOST,22.547,120.2855,268.6,7.5,,120? 17.132' E,22? 32.819' N,268,,,,
+416004697,Taiwan (Province of China),20/02/2025 16:02:11,KAO 505,22.6102,120.2726,146.1,0,967097500,120? 16.356' E,22? 36.612' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416006752,Taiwan (Province of China),20/02/2025 16:02:11,TA YU,22.5946,120.291,316.7,0,0,120? 17.462' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:02:11,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416005003,Taiwan (Province of China),20/02/2025 16:02:11,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.726' E,22? 32.806' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+416004191,Taiwan (Province of China),20/02/2025 16:02:12,SEAGREEN NO15,22.5958,120.2843,360,0,9406295,120? 17.058' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416011751,Taiwan (Province of China),20/02/2025 16:02:12,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416006768,Taiwan (Province of China),20/02/2025 16:02:12,DONG PING NO.9,22.5972,120.2994,189.2,0,0,120? 17.962' E,22? 35.834' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006765,Taiwan (Province of China),20/02/2025 16:02:12,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.897' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+312234000,Belize,20/02/2025 16:02:12,GREAT GLORY,22.611,120.2739,353.8,0,8864971,120? 16.437' E,22? 36.660' N,511,9,57,KAO@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416008938,Taiwan (Province of China),20/02/2025 16:02:12,TIMP NO.15005,22.5866,120.2943,146.6,3.7,0,120? 17.655' E,22? 35.194' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416007289,Taiwan (Province of China),20/02/2025 16:02:13,YUAN MAN JIN,22.5535,120.3383,271.7,0,0,120? 20.295' E,22? 33.212' N,271,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416002974,Taiwan (Province of China),20/02/2025 16:02:13,DONG LIAN NO.8,22.5963,120.2999,349.1,0,0,120? 17.991' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416126600,Taiwan (Province of China),20/02/2025 16:02:13,YU DING N0 303,22.5857,120.3038,360,0,0,120? 18.230' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416004524,Taiwan (Province of China),20/02/2025 16:02:13,YU JING 245,22.6175,120.2794,360,0,0,120? 16.761' E,22? 37.053' N,511,9,54,@@@@@@@@@@@@@@@@@@@@,Tug
+576638000,Vanuatu (Republic of),20/02/2025 16:02:13,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416008937,Taiwan (Province of China),20/02/2025 16:02:13,TIPM NO.15003,22.5876,120.2936,144.7,3.8,0,120? 17.618' E,22? 35.256' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416004261,Taiwan (Province of China),20/02/2025 16:02:13,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.185' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416000017,Taiwan (Province of China),20/02/2025 16:02:13,YU TAI NO.403,22.5948,120.288,273.3,0.2,0,120? 17.279' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416004602,Taiwan (Province of China),20/02/2025 16:02:14,TIPM NO.15401,22.5542,120.318,65.6,10.3,0,120? 19.080' E,22? 33.254' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416004127,Taiwan (Province of China),20/02/2025 16:02:14,YU HONG 401,22.6038,120.285,186.4,0,0,120? 17.098' E,22? 36.226' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416000021,Taiwan (Province of China),20/02/2025 16:02:14,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416005691,Taiwan (Province of China),20/02/2025 16:02:14,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416004047,Taiwan (Province of China),20/02/2025 16:02:15,TA YING,22.5991,120.2884,104.2,0.1,0,120? 17.302' E,22? 35.947' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416004115,Taiwan (Province of China),20/02/2025 16:02:15,DAH LIN NO.9,22.5389,120.3359,360,0.1,0,120? 20.155' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+457601000,Mongolia,20/02/2025 16:02:15,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+994166001,Taiwan (Province of China),20/02/2025 16:02:15,ATON F1,22.6272,120.2228,,,,120? 13.370' E,22? 37.630' N,,,,,
+416012541,Taiwan (Province of China),20/02/2025 16:02:15,KMSC NO.901,22.5937,120.2913,293.3,8.6,0,120? 17.477' E,22? 35.621' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+510069000,Micronesia (Federated States of),20/02/2025 16:02:15,QUEEN ISABELLA 88,22.6135,120.2719,151.3,0,0,120? 16.315' E,22? 36.807' N,302,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+677011100,Tanzania (United Republic of),20/02/2025 16:02:15,HAI FA,22.582,120.2954,264.1,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+994166002,Taiwan (Province of China),20/02/2025 16:02:16,ATON F2,22.6312,120.2053,,,,120? 12.320' E,22? 37.870' N,,,,,
+636022832,Liberia (Republic of),20/02/2025 16:02:16,PHILIPPOS,22.6078,120.2904,337.5,0.1,9839820,120? 17.425' E,22? 36.469' N,117,32,199,TWKHH            @@@,Cargo-all ships of this type
+457496000,Mongolia,20/02/2025 16:02:16,SATURN,22.6026,120.2865,0,0,8890138,120? 17.193' E,22? 36.153' N,150,9,59,ARRIVED@@@@@@@@@@@@@,Cargo-all ships of this type
+413326260,China (People's Republic of),20/02/2025 16:02:16,CHENG SHAN WEI,22.6042,120.2934,244.3,0,9634426,120? 17.602' E,22? 36.251' N,159,19,112,CN KHH              ,Cargo-all ships of this type
+416015927,Taiwan (Province of China),20/02/2025 16:02:16,KAO 506,22.6138,120.2881,183.4,0.1,0,120? 17.286' E,22? 36.825' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+667001476,Sierra Leone,20/02/2025 16:02:16,FA ZHAN,22.5819,120.2955,209,0,8889854,120? 17.727' E,22? 34.915' N,232,9,58,KAOSHIUNG TAIWAN    ,Cargo-all ships of this type
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416003923,Taiwan (Province of China),20/02/2025 16:02:17,KAO NO.112,22.5951,120.2885,141.7,4.6,0,120? 17.310' E,22? 35.703' N,511,14,89,KOH                 ,Tug
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:02:17,GLORY TIANJIN,22.5294,120.216,72.3,4.9,,120? 12.962' E,22? 31.762' N,78,,,,
+667001736,Sierra Leone,20/02/2025 16:02:17,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005452,Taiwan (Province of China),20/02/2025 16:02:18,CHUNG YU NO.22,22.5845,120.3008,40,0,9814571,120? 18.047' E,22? 35.070' N,50,16,75,KAOSHIUNG           ,Tanker-all ships of this type
+416459000,Taiwan (Province of China),20/02/2025 16:02:18,UNI PROSPER,22.5408,120.3042,291,5.1,,120? 18.251' E,22? 32.448' N,294,,,,
+416003885,Taiwan (Province of China),20/02/2025 16:02:19,SHING FU,22.6198,120.2699,349.9,0.8,0,120? 16.194' E,22? 37.185' N,176,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+306406000,Netherlands Antilles,20/02/2025 16:02:19,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.697' N,226,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:02:19,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416008845,Taiwan (Province of China),20/02/2025 16:02:19,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+563245300,Singapore (Republic of),20/02/2025 16:02:19,EVER MOST,22.547,120.2852,268.9,7.6,,120? 17.111' E,22? 32.818' N,268,,,,
+416003945,Taiwan (Province of China),20/02/2025 16:02:20,S5 SUNG SHAN,22.6181,120.2782,309.8,0.4,0,120? 16.690' E,22? 37.087' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+667001467,Sierra Leone,20/02/2025 16:02:20,VINCENT 2,22.6023,120.2829,348.7,0,9121039,120? 16.974' E,22? 36.135' N,142,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:02:20,FORMOSA NO.8,22.5997,120.2826,360,0,0,120? 16.958' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416006752,Taiwan (Province of China),20/02/2025 16:02:20,TA YU,22.5946,120.291,316.7,0,0,120? 17.462' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416004697,Taiwan (Province of China),20/02/2025 16:02:20,KAO 505,22.6102,120.2726,146.7,0,967097500,120? 16.356' E,22? 36.612' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+511101274,Palau (Republic of),20/02/2025 16:02:21,HONG LI,22.6034,120.2821,21.8,0,9036894,120? 16.926' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+413326260,China (People's Republic of),20/02/2025 16:02:21,CHENG SHAN WEI,22.6042,120.2934,244.3,0,9634426,120? 17.602' E,22? 36.252' N,159,19,112,CN KHH              ,Cargo-all ships of this type
+416008938,Taiwan (Province of China),20/02/2025 16:02:21,TIMP NO.15005,22.5864,120.2943,146.8,3.8,0,120? 17.661' E,22? 35.186' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416247700,Taiwan (Province of China),20/02/2025 16:02:22,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004191,Taiwan (Province of China),20/02/2025 16:02:22,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.058' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+576638000,Vanuatu (Republic of),20/02/2025 16:02:22,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006765,Taiwan (Province of China),20/02/2025 16:02:22,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.897' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416011751,Taiwan (Province of China),20/02/2025 16:02:22,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416002974,Taiwan (Province of China),20/02/2025 16:02:22,DONG LIAN NO.8,22.5963,120.2999,349.1,0,0,120? 17.991' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416126600,Taiwan (Province of China),20/02/2025 16:02:22,YU DING N0 303,22.5857,120.3038,360,0,0,120? 18.230' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416008937,Taiwan (Province of China),20/02/2025 16:02:22,TIPM NO.15003,22.5875,120.2937,146.7,3.8,0,120? 17.623' E,22? 35.248' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416005691,Taiwan (Province of China),20/02/2025 16:02:23,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416000021,Taiwan (Province of China),20/02/2025 16:02:24,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416005577,Taiwan (Province of China),20/02/2025 16:02:24,TIPM NO.16402,22.5569,120.326,200.1,1.1,9859997,120? 19.558' E,22? 33.414' N,225,12,34,@@@@@@@@@@@@@@@@@@@@,Tug
+416004261,Taiwan (Province of China),20/02/2025 16:02:24,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.185' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416005047,Taiwan (Province of China),20/02/2025 16:02:24,TIPM NO.13401,22.5338,120.303,283.9,0,0,120? 18.180' E,22? 32.027' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416004865,Taiwan (Province of China),20/02/2025 16:02:24,HSIANG PERNG NO.212,22.5968,120.2817,312.8,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+306045000,Netherlands Antilles,20/02/2025 16:02:25,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.436' E,22? 36.660' N,0,9,53,KHH                 ,Cargo-all ships of this type
+416004115,Taiwan (Province of China),20/02/2025 16:02:25,DAH LIN NO.9,22.5389,120.3359,360,0.1,0,120? 20.155' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+416000017,Taiwan (Province of China),20/02/2025 16:02:25,YU TAI NO.403,22.5948,120.288,269.8,0.3,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416004047,Taiwan (Province of China),20/02/2025 16:02:25,TA YING,22.5991,120.2884,104.2,0,0,120? 17.303' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416012541,Taiwan (Province of China),20/02/2025 16:02:25,KMSC NO.901,22.5938,120.2909,296.2,8.8,0,120? 17.453' E,22? 35.630' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+416005437,Taiwan (Province of China),20/02/2025 16:02:25,SOLARIS 2,22.5821,120.2939,360,0,0,120? 17.633' E,22? 34.923' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+457601000,Mongolia,20/02/2025 16:02:25,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006146,Taiwan (Province of China),20/02/2025 16:02:26,HUNG YI NO.2,22.546,120.3057,48.1,0,0,120? 18.341' E,22? 32.759' N,511,12,32,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+538010853,Marshall Islands (Republic of the),20/02/2025 16:02:26,FAIRCHEM PATHFINDER,22.5871,120.2941,148.3,3.8,9975301,120? 17.645' E,22? 35.227' N,149,27,158,TW KHH              ,Tanker-all ships of this type
+510069000,Micronesia (Federated States of),20/02/2025 16:02:26,QUEEN ISABELLA 88,22.6135,120.2719,112.6,0,0,120? 16.316' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+677011100,Tanzania (United Republic of),20/02/2025 16:02:27,HAI FA,22.582,120.2954,263.2,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+416010071,Taiwan (Province of China),20/02/2025 16:02:27,NATION PROSPERITY 3,22.5386,120.299,165,0,9325726,120? 17.942' E,22? 32.314' N,144,18,100,TW KAO              ,Cargo-no additional information
+677071100,Tanzania (United Republic of),20/02/2025 16:02:27,PROSPER,22.5823,120.2952,225.6,0,9135303,120? 17.710' E,22? 34.940' N,511,13,70,TW KAO@@@@@@@@@@@@@@,Cargo-all ships of this type
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:02:27,GLORY TIANJIN,22.5294,120.2163,72.7,5.2,,120? 12.977' E,22? 31.766' N,77,,,,
+667001736,Sierra Leone,20/02/2025 16:02:27,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005696,Taiwan (Province of China),20/02/2025 16:02:27,NEW OCEANRESEARCHER3,22.5967,120.2843,112.6,0,9827499,120? 17.061' E,22? 35.800' N,60,11,45,KAOHSIUNG           ,Other type of ship-no additional information
+416003923,Taiwan (Province of China),20/02/2025 16:02:27,KAO NO.112,22.5949,120.2886,152.2,3.6,0,120? 17.317' E,22? 35.694' N,511,14,89,KOH                 ,Tug
+416459000,Taiwan (Province of China),20/02/2025 16:02:28,UNI PROSPER,22.5409,120.3039,291,5.1,,120? 18.237' E,22? 32.453' N,294,,,,
+416005438,Taiwan (Province of China),20/02/2025 16:02:29,SOLARIS,22.6093,120.2732,260.5,0.1,0,120? 16.394' E,22? 36.556' N,144,8,21,KHH PORT@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416000095,Taiwan (Province of China),20/02/2025 16:02:29,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+416000095,Taiwan (Province of China),20/02/2025 16:02:29,YIN LIAN,22.5964,120.2898,154.6,0.1,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+563245300,Singapore (Republic of),20/02/2025 16:02:29,EVER MOST,22.547,120.2848,268.7,7.7,,120? 17.090' E,22? 32.818' N,268,,,,
+306406000,Netherlands Antilles,20/02/2025 16:02:30,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,226,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:02:30,FORMOSA NO.8,22.5997,120.2827,360,0,0,120? 16.959' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416008845,Taiwan (Province of China),20/02/2025 16:02:30,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+416004697,Taiwan (Province of China),20/02/2025 16:02:30,KAO 505,22.6102,120.2726,134.5,0,967097500,120? 16.357' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+677071100,Tanzania (United Republic of),20/02/2025 16:02:30,PROSPER,22.5823,120.2952,225.6,0,9135303,120? 17.710' E,22? 34.940' N,511,13,70,TW KAO@@@@@@@@@@@@@@,Cargo-all ships of this type
+667001467,Sierra Leone,20/02/2025 16:02:30,VINCENT 2,22.6023,120.2829,327,0,9121039,120? 16.974' E,22? 36.135' N,142,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006752,Taiwan (Province of China),20/02/2025 16:02:30,TA YU,22.5946,120.291,316.7,0,0,120? 17.462' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+212366000,Cyprus (Republic of),20/02/2025 16:02:30,HANDY STRANGER,22.6102,120.2821,145.7,0,9643453,120? 16.925' E,22? 36.614' N,58,30,182,KAOHSIUNG           ,Cargo-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:02:31,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004524,Taiwan (Province of China),20/02/2025 16:02:31,YU JING 245,22.6175,120.2794,360,0,0,120? 16.761' E,22? 37.053' N,511,9,54,@@@@@@@@@@@@@@@@@@@@,Tug
+416001900,Taiwan (Province of China),20/02/2025 16:02:31,YUAN TAI NO.806,22.5666,120.3134,360,0,790066300,120? 18.802' E,22? 33.998' N,511,0,0,SINGAPORE@@@@@@@@@@@,Cargo-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:02:31,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416011751,Taiwan (Province of China),20/02/2025 16:02:31,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416005003,Taiwan (Province of China),20/02/2025 16:02:31,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.725' E,22? 32.806' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+416002974,Taiwan (Province of China),20/02/2025 16:02:31,DONG LIAN NO.8,22.5963,120.2999,349.1,0,0,120? 17.991' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416006765,Taiwan (Province of China),20/02/2025 16:02:31,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.897' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416008938,Taiwan (Province of China),20/02/2025 16:02:31,TIMP NO.15005,22.5863,120.2945,146.5,3.7,0,120? 17.667' E,22? 35.177' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416004191,Taiwan (Province of China),20/02/2025 16:02:32,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.058' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416006768,Taiwan (Province of China),20/02/2025 16:02:32,DONG PING NO.9,22.5972,120.2994,189.2,0,0,120? 17.962' E,22? 35.833' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416126600,Taiwan (Province of China),20/02/2025 16:02:32,YU DING N0 303,22.5857,120.3038,360,0,0,120? 18.230' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+563250800,Singapore (Republic of),20/02/2025 16:02:32,YM INCREMENT,22.5497,120.3232,172,0,,120? 19.393' E,22? 32.983' N,323,,,,
+416007289,Taiwan (Province of China),20/02/2025 16:02:32,YUAN MAN JIN,22.5535,120.3383,271.7,0,0,120? 20.295' E,22? 33.211' N,271,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+576638000,Vanuatu (Republic of),20/02/2025 16:02:33,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.184' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416000021,Taiwan (Province of China),20/02/2025 16:02:33,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416004602,Taiwan (Province of China),20/02/2025 16:02:33,TIPM NO.15401,22.5545,120.3189,75.5,10.4,0,120? 19.136' E,22? 33.270' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+386900011,not in use,20/02/2025 16:02:33,3869-11-57%,22.5897,120.2897,315.6,0.1,,120? 17.383' E,22? 35.384' N,,,,,
+457476000,Mongolia,20/02/2025 16:02:33,EVERDELIGHT,22.5786,120.2983,212.2,0,,120? 17.895' E,22? 34.717' N,,16,112,,
+416008937,Taiwan (Province of China),20/02/2025 16:02:33,TIPM NO.15003,22.5873,120.2938,151.1,3.7,0,120? 17.630' E,22? 35.238' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+312814000,Belize,20/02/2025 16:02:34,HONG LI,22.6034,120.2822,53.3,0,,120? 16.929' E,22? 36.204' N,,13,91,,
+416000017,Taiwan (Province of China),20/02/2025 16:02:34,YU TAI NO.403,22.5948,120.288,244.1,0.1,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+312814000,Belize,20/02/2025 16:02:34,HONG LI,22.6034,120.2822,53.3,0,,120? 16.929' E,22? 36.204' N,,13,78,,
+416004127,Taiwan (Province of China),20/02/2025 16:02:34,YU HONG 401,22.6038,120.2849,186.4,0,0,120? 17.096' E,22? 36.228' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416006264,Taiwan (Province of China),20/02/2025 16:02:34,POLARIS III,22.5837,120.2941,155.2,0,9533971,120? 17.648' E,22? 35.021' N,60,14,49,TWKHH               ,not available or no ship (default)
+416005691,Taiwan (Province of China),20/02/2025 16:02:34,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416005437,Taiwan (Province of China),20/02/2025 16:02:35,SOLARIS 2,22.5821,120.2939,360,0,0,120? 17.633' E,22? 34.923' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416004047,Taiwan (Province of China),20/02/2025 16:02:35,TA YING,22.5991,120.2884,104.2,0,0,120? 17.303' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416005577,Taiwan (Province of China),20/02/2025 16:02:35,TIPM NO.16402,22.5569,120.326,157.3,0.5,9859997,120? 19.559' E,22? 33.413' N,228,12,34,@@@@@@@@@@@@@@@@@@@@,Tug
+416004115,Taiwan (Province of China),20/02/2025 16:02:35,DAH LIN NO.9,22.5389,120.3359,360,0.1,0,120? 20.156' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+306045000,Netherlands Antilles,20/02/2025 16:02:35,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.436' E,22? 36.659' N,0,9,53,KHH                 ,Cargo-all ships of this type
+510069000,Micronesia (Federated States of),20/02/2025 16:02:35,QUEEN ISABELLA 88,22.6135,120.2719,91.6,0,0,120? 16.316' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+667001736,Sierra Leone,20/02/2025 16:02:36,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:02:36,GLORY TIANJIN,22.5295,120.2165,72.5,5.5,,120? 12.992' E,22? 31.771' N,77,,,,
+416015927,Taiwan (Province of China),20/02/2025 16:02:36,KAO 506,22.6137,120.2881,183.4,0.1,0,120? 17.287' E,22? 36.824' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+677011100,Tanzania (United Republic of),20/02/2025 16:02:36,HAI FA,22.582,120.2954,264.4,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+352004467,Panama (Republic of),20/02/2025 16:02:37,JUI HO,22.6158,120.277,192,0,9194816,120? 16.618' E,22? 36.950' N,288,26,153,TW KHH           @@@,Cargo-all ships of this type
+386900011,not in use,20/02/2025 16:02:37,3869-11-57%,22.5897,120.2897,315.6,0.1,,120? 17.383' E,22? 35.384' N,,,,,
+416459000,Taiwan (Province of China),20/02/2025 16:02:37,UNI PROSPER,22.541,120.3037,291,5.1,,120? 18.222' E,22? 32.458' N,294,,,,
+416008865,Taiwan (Province of China),20/02/2025 16:02:37,TRITON 8,22.5659,120.3087,271.2,0,9486776,120? 18.524' E,22? 33.956' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Reserved for future use
+416252000,Taiwan (Province of China),20/02/2025 16:02:37,ASIA CEMENT NO.6,22.6042,120.2853,232.8,0.2,9112832,120? 17.120' E,22? 36.249' N,331,20,125,TW KHH              ,Cargo-all ships of this type
+386900011,not in use,20/02/2025 16:02:38,3869-11-57%,22.5897,120.2897,315.6,0.1,,120? 17.383' E,22? 35.384' N,,,,,
+416003885,Taiwan (Province of China),20/02/2025 16:02:38,SHING FU,22.6198,120.2699,270.6,0.6,0,120? 16.191' E,22? 37.187' N,194,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416000095,Taiwan (Province of China),20/02/2025 16:02:38,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+306406000,Netherlands Antilles,20/02/2025 16:02:38,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,225,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005577,Taiwan (Province of China),20/02/2025 16:02:38,TIPM NO.16402,22.5569,120.326,136.6,0.5,9859997,120? 19.559' E,22? 33.413' N,228,12,34,@@@@@@@@@@@@@@@@@@@@,Tug
+563245300,Singapore (Republic of),20/02/2025 16:02:39,EVER MOST,22.547,120.2845,267.7,7.9,,120? 17.067' E,22? 32.817' N,267,,,,
+416005452,Taiwan (Province of China),20/02/2025 16:02:39,CHUNG YU NO.22,22.5845,120.3008,40,0,9814571,120? 18.047' E,22? 35.069' N,50,16,75,KAOSHIUNG           ,Tanker-all ships of this type
+386900011,not in use,20/02/2025 16:02:39,3869-11-56%,22.5897,120.2897,315.6,0.1,,120? 17.383' E,22? 35.384' N,,,,,
+440295000,Korea (Republic of),20/02/2025 16:02:39,PRINCESS CRYSTAL,22.5803,120.3018,276.1,0,,120? 18.110' E,22? 34.816' N,141,,,,
+416003923,Taiwan (Province of China),20/02/2025 16:02:39,KAO NO.112,22.5947,120.2886,166.2,2.9,0,120? 17.318' E,22? 35.684' N,511,14,89,KOH                 ,Tug
+416004631,Taiwan (Province of China),20/02/2025 16:02:40,TA SHIN,22.5999,120.2881,0,0,0,120? 17.283' E,22? 35.992' N,511,8,49,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+667001467,Sierra Leone,20/02/2025 16:02:40,VINCENT 2,22.6023,120.2829,318.9,0.1,9121039,120? 16.974' E,22? 36.135' N,142,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+511101274,Palau (Republic of),20/02/2025 16:02:40,HONG LI,22.6034,120.2821,38.6,0.1,9036894,120? 16.926' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:02:40,FORMOSA NO.8,22.5997,120.2827,360,0,0,120? 16.959' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+544113120,Nauru (Republic of),20/02/2025 16:02:40,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+544113120,Nauru (Republic of),20/02/2025 16:02:40,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006752,Taiwan (Province of China),20/02/2025 16:02:40,TA YU,22.5946,120.2911,316.7,0,0,120? 17.463' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416005003,Taiwan (Province of China),20/02/2025 16:02:40,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.725' E,22? 32.806' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:02:41,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.561' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+994166003,Taiwan (Province of China),20/02/2025 16:02:41,ATON S1,22.5437,120.2637,,,,120? 15.820' E,22? 32.620' N,,,,,
+994166004,Taiwan (Province of China),20/02/2025 16:02:41,ATON S2,22.5375,120.232,,,,120? 13.920' E,22? 32.250' N,,,,,
+416004697,Taiwan (Province of China),20/02/2025 16:02:41,KAO 505,22.6102,120.2726,81.3,0,967097500,120? 16.354' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416008938,Taiwan (Province of China),20/02/2025 16:02:41,TIMP NO.15005,22.5862,120.2945,148.9,3.1,0,120? 17.672' E,22? 35.169' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416003942,Taiwan (Province of China),20/02/2025 16:02:41,S12 CHIEN NAN NO 1,22.6181,120.2781,58,0.1,,120? 16.687' E,22? 37.086' N,,0,0,,
+416010075,Taiwan (Province of China),20/02/2025 16:02:42,928247,22.6164,120.2917,360,0,,120? 17.500' E,22? 36.986' N,,0,0,,
+416008937,Taiwan (Province of China),20/02/2025 16:02:42,TIPM NO.15003,22.5872,120.2939,151.4,3.7,0,120? 17.634' E,22? 35.230' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416006765,Taiwan (Province of China),20/02/2025 16:02:43,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416002974,Taiwan (Province of China),20/02/2025 16:02:43,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416004261,Taiwan (Province of China),20/02/2025 16:02:43,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.186' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416126600,Taiwan (Province of China),20/02/2025 16:02:43,YU DING N0 303,22.5857,120.3038,360,0,0,120? 18.230' E,22? 35.142' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416011751,Taiwan (Province of China),20/02/2025 16:02:43,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416004191,Taiwan (Province of China),20/02/2025 16:02:43,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.058' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416005691,Taiwan (Province of China),20/02/2025 16:02:43,SEN KOH NO.8,22.5861,120.2924,360,0,0,120? 17.547' E,22? 35.167' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416000021,Taiwan (Province of China),20/02/2025 16:02:43,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+576638000,Vanuatu (Republic of),20/02/2025 16:02:43,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+994166005,Taiwan (Province of China),20/02/2025 16:02:44,ANGEL WRECK,22.609,120.2068,,,,120? 12.410' E,22? 36.540' N,,,,,
+994166007,Taiwan (Province of China),20/02/2025 16:02:44,OUTSIDE BREAKWATER A,22.5543,120.2738,,,,120? 16.430' E,22? 33.260' N,,,,,
+416012541,Taiwan (Province of China),20/02/2025 16:02:44,KMSC NO.901,22.5942,120.2901,298.4,8.6,0,120? 17.407' E,22? 35.653' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+994166008,Taiwan (Province of China),20/02/2025 16:02:44,OUTSIDE BREAKWATER B,22.55,120.2728,,,,120? 16.370' E,22? 33.000' N,,,,,
+416005047,Taiwan (Province of China),20/02/2025 16:02:44,TIPM NO.13401,22.5338,120.303,283.9,0.1,0,120? 18.180' E,22? 32.027' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416004047,Taiwan (Province of China),20/02/2025 16:02:45,TA YING,22.5991,120.2884,104.2,0,0,120? 17.303' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:02:45,SHING FU,22.6198,120.2698,225.7,1.2,0,120? 16.190' E,22? 37.186' N,201,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416000017,Taiwan (Province of China),20/02/2025 16:02:45,YU TAI NO.403,22.5948,120.288,237.4,0,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416005437,Taiwan (Province of China),20/02/2025 16:02:45,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.633' E,22? 34.923' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+306045000,Netherlands Antilles,20/02/2025 16:02:45,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.659' N,0,9,53,KHH                 ,Cargo-all ships of this type
+416004115,Taiwan (Province of China),20/02/2025 16:02:45,DAH LIN NO.9,22.5389,120.3359,360,0.1,0,120? 20.156' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+457601000,Mongolia,20/02/2025 16:02:45,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006146,Taiwan (Province of China),20/02/2025 16:02:46,HUNG YI NO.2,22.546,120.3057,48.1,0,0,120? 18.341' E,22? 32.760' N,511,12,32,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+372125000,Panama (Republic of),20/02/2025 16:02:46,KAMNIK,22.5854,120.2968,284.5,0,9657571,120? 17.808' E,22? 35.124' N,150,20,128,TW KHH              ,Cargo-all ships of this type
+510069000,Micronesia (Federated States of),20/02/2025 16:02:46,QUEEN ISABELLA 88,22.6135,120.2719,328.5,0,0,120? 16.316' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+538010853,Marshall Islands (Republic of the),20/02/2025 16:02:46,FAIRCHEM PATHFINDER,22.5868,120.2943,148.9,3.7,9975301,120? 17.656' E,22? 35.209' N,148,27,158,TW KHH              ,Tanker-all ships of this type
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:02:46,GLORY TIANJIN,22.5296,120.2168,71.3,5.8,,120? 13.008' E,22? 31.776' N,77,,,,
+677011100,Tanzania (United Republic of),20/02/2025 16:02:46,HAI FA,22.582,120.2954,267.9,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416008865,Taiwan (Province of China),20/02/2025 16:02:47,TRITON 8,22.5659,120.3087,271.2,0,9486776,120? 18.524' E,22? 33.955' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Reserved for future use
+416001323,Taiwan (Province of China),20/02/2025 16:02:47,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+533110698,Malaysia,20/02/2025 16:02:47,MONICAPRIL,22.6075,120.2966,360,0.2,,120? 17.796' E,22? 36.448' N,,4,18,,
+416015927,Taiwan (Province of China),20/02/2025 16:02:47,KAO 506,22.6137,120.2881,183.4,0,0,120? 17.287' E,22? 36.825' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+677040400,Tanzania (United Republic of),20/02/2025 16:02:48,HUNG CHENG,22.6139,120.2835,293.3,0,8864335,120? 17.011' E,22? 36.831' N,511,10,58,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+667001736,Sierra Leone,20/02/2025 16:02:48,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416459000,Taiwan (Province of China),20/02/2025 16:02:48,UNI PROSPER,22.5411,120.3035,292,5,,120? 18.209' E,22? 32.463' N,294,,,,
+416003923,Taiwan (Province of China),20/02/2025 16:02:48,KAO NO.112,22.5946,120.2887,170.7,2.5,0,120? 17.319' E,22? 35.678' N,511,14,89,KOH                 ,Tug
+416000095,Taiwan (Province of China),20/02/2025 16:02:48,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+416004524,Taiwan (Province of China),20/02/2025 16:02:49,YU JING 245,22.6175,120.2794,360,0,0,120? 16.761' E,22? 37.052' N,511,9,54,@@@@@@@@@@@@@@@@@@@@,Tug
+306406000,Netherlands Antilles,20/02/2025 16:02:50,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,225,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:02:50,FORMOSA NO.8,22.5997,120.2826,360,0,0,120? 16.958' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+994166009,Taiwan (Province of China),20/02/2025 16:02:50,USED SOUTH BREAKWATE,22.5475,120.299,,,,120? 17.940' E,22? 32.850' N,,,,,
+563245300,Singapore (Republic of),20/02/2025 16:02:50,EVER MOST,22.5469,120.284,267.7,8,,120? 17.041' E,22? 32.816' N,267,,,,
+994166010,Taiwan (Province of China),20/02/2025 16:02:50,CURRENT METER,22.6168,120.2537,,,,120? 15.220' E,22? 37.010' N,,,,,
+667001467,Sierra Leone,20/02/2025 16:02:50,VINCENT 2,22.6023,120.2829,312.1,0,9121039,120? 16.974' E,22? 36.135' N,142,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:02:50,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006752,Taiwan (Province of China),20/02/2025 16:02:50,TA YU,22.5946,120.2911,316.7,0,0,120? 17.463' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416004697,Taiwan (Province of China),20/02/2025 16:02:50,KAO 505,22.6102,120.2726,310.5,0,967097500,120? 16.355' E,22? 36.612' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+544113120,Nauru (Republic of),20/02/2025 16:02:51,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416008845,Taiwan (Province of China),20/02/2025 16:02:51,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+416001900,Taiwan (Province of China),20/02/2025 16:02:51,YUAN TAI NO.806,22.5666,120.3133,360,0,790066300,120? 18.801' E,22? 33.997' N,511,0,0,SINGAPORE@@@@@@@@@@@,Cargo-all ships of this type
+511101274,Palau (Republic of),20/02/2025 16:02:51,HONG LI,22.6034,120.2821,37.9,0,9036894,120? 16.927' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:02:51,SHING FU,22.6197,120.2698,205.9,2.2,0,120? 16.189' E,22? 37.184' N,195,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416002974,Taiwan (Province of China),20/02/2025 16:02:51,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416006765,Taiwan (Province of China),20/02/2025 16:02:51,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416247700,Taiwan (Province of China),20/02/2025 16:02:52,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416126600,Taiwan (Province of China),20/02/2025 16:02:52,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.143' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416008937,Taiwan (Province of China),20/02/2025 16:02:52,TIPM NO.15003,22.587,120.294,148.7,3.7,0,120? 17.640' E,22? 35.221' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416011751,Taiwan (Province of China),20/02/2025 16:02:52,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416004191,Taiwan (Province of China),20/02/2025 16:02:53,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.057' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416007289,Taiwan (Province of China),20/02/2025 16:02:53,YUAN MAN JIN,22.5535,120.3383,271.7,0,0,120? 20.295' E,22? 33.211' N,271,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+576638000,Vanuatu (Republic of),20/02/2025 16:02:53,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416008938,Taiwan (Province of China),20/02/2025 16:02:53,TIMP NO.15005,22.586,120.2947,144.8,3.7,0,120? 17.679' E,22? 35.161' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416006768,Taiwan (Province of China),20/02/2025 16:02:53,DONG PING NO.9,22.5972,120.2994,189.2,0,0,120? 17.962' E,22? 35.833' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416005691,Taiwan (Province of China),20/02/2025 16:02:53,SEN KOH NO.8,22.5861,120.2924,360,0,0,120? 17.547' E,22? 35.167' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416004602,Taiwan (Province of China),20/02/2025 16:02:54,TIPM NO.15401,22.5548,120.32,68.3,10.2,0,120? 19.199' E,22? 33.285' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416000021,Taiwan (Province of China),20/02/2025 16:02:54,YU MING NO:288,22.5853,120.3028,360,0.1,0,120? 18.166' E,22? 35.119' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416004261,Taiwan (Province of China),20/02/2025 16:02:54,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.186' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+306045000,Netherlands Antilles,20/02/2025 16:02:55,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.659' N,0,9,53,KHH                 ,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:02:55,SHING FU,22.6197,120.2698,200.8,2.5,0,120? 16.187' E,22? 37.182' N,191,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416005577,Taiwan (Province of China),20/02/2025 16:02:55,TIPM NO.16402,22.5569,120.326,138.2,0.3,9859997,120? 19.561' E,22? 33.412' N,227,12,34,@@@@@@@@@@@@@@@@@@@@,Tug
+416000017,Taiwan (Province of China),20/02/2025 16:02:55,YU TAI NO.403,22.5948,120.288,244.9,0.1,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+457601000,Mongolia,20/02/2025 16:02:55,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+457556000,Mongolia,20/02/2025 16:02:55,EVER  DELIGHT,91,181,360,102.3,8358661,Not available (default),Not available (default),511,16,96,KAOHSIUNG           ,Cargo-all ships of this type
+416004865,Taiwan (Province of China),20/02/2025 16:02:55,HSIANG PERNG NO.212,22.5968,120.2817,57.4,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+994166011,Taiwan (Province of China),20/02/2025 16:02:55,NEW SOUTH BREAKWATER,22.5438,120.2862,,,,120? 17.170' E,22? 32.630' N,,,,,
+416012541,Taiwan (Province of China),20/02/2025 16:02:55,KMSC NO.901,22.5944,120.2897,301.9,8.7,0,120? 17.384' E,22? 35.665' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+416004115,Taiwan (Province of China),20/02/2025 16:02:55,DAH LIN NO.9,22.5389,120.3359,360,0,0,120? 20.156' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+416004047,Taiwan (Province of China),20/02/2025 16:02:55,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+677011100,Tanzania (United Republic of),20/02/2025 16:02:56,HAI FA,22.582,120.2954,268.4,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+566760000,Singapore (Republic of),20/02/2025 16:02:56,WAN HAI 105,22.5784,120.3032,209.6,0,9596789,120? 18.194' E,22? 34.706' N,141,23,144,TW KHH              ,Cargo-all ships of this type
+416005437,Taiwan (Province of China),20/02/2025 16:02:56,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.633' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+510069000,Micronesia (Federated States of),20/02/2025 16:02:56,QUEEN ISABELLA 88,22.6135,120.2719,334.8,0,0,120? 16.316' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416015927,Taiwan (Province of China),20/02/2025 16:02:56,KAO 506,22.6138,120.2881,183.4,0,0,120? 17.287' E,22? 36.825' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+667001736,Sierra Leone,20/02/2025 16:02:56,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:02:57,GLORY TIANJIN,22.5297,120.2171,71.5,6.1,,120? 13.027' E,22? 31.782' N,77,,,,
+416003885,Taiwan (Province of China),20/02/2025 16:02:57,SHING FU,22.6197,120.2698,194.2,2.8,0,120? 16.187' E,22? 37.180' N,187,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+994166012,Taiwan (Province of China),20/02/2025 16:02:58,NORTH BREAKWATER,22.5512,120.3007,,,,120? 18.040' E,22? 33.070' N,,,,,
+416459000,Taiwan (Province of China),20/02/2025 16:02:58,UNI PROSPER,22.5412,120.3032,292,5,,120? 18.192' E,22? 32.469' N,294,,,,
+416005452,Taiwan (Province of China),20/02/2025 16:02:59,CHUNG YU NO.22,22.5845,120.3008,40,0,9814571,120? 18.047' E,22? 35.070' N,50,16,75,KAOSHIUNG           ,Tanker-all ships of this type
+416003923,Taiwan (Province of China),20/02/2025 16:02:59,KAO NO.112,22.5945,120.2887,169.9,2,0,120? 17.321' E,22? 35.672' N,511,14,89,KOH                 ,Tug
+563245300,Singapore (Republic of),20/02/2025 16:02:59,EVER MOST,22.5469,120.2837,267.8,8.1,,120? 17.019' E,22? 32.815' N,267,,,,
+544113120,Nauru (Republic of),20/02/2025 16:02:59,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004865,Taiwan (Province of China),20/02/2025 16:02:59,HSIANG PERNG NO.212,22.5968,120.2817,57.4,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+416004047,Taiwan (Province of China),20/02/2025 16:02:59,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416004697,Taiwan (Province of China),20/02/2025 16:03:00,KAO 505,22.6102,120.2726,28.1,0,967097500,120? 16.355' E,22? 36.613' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416006752,Taiwan (Province of China),20/02/2025 16:03:00,TA YU,22.5946,120.2911,316.7,0,0,120? 17.463' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+306406000,Netherlands Antilles,20/02/2025 16:03:00,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,226,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:03:00,FORMOSA NO.8,22.5997,120.2826,360,0,0,120? 16.958' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416008845,Taiwan (Province of China),20/02/2025 16:03:00,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+416000095,Taiwan (Province of China),20/02/2025 16:03:00,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+416005003,Taiwan (Province of China),20/02/2025 16:03:01,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.725' E,22? 32.806' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+511101274,Palau (Republic of),20/02/2025 16:03:01,HONG LI,22.6034,120.2821,39.1,0.1,9036894,120? 16.928' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416004865,Taiwan (Province of China),20/02/2025 16:03:01,HSIANG PERNG NO.212,22.5968,120.2817,57.4,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+667001467,Sierra Leone,20/02/2025 16:03:01,VINCENT 2,22.6023,120.2829,309.7,0.1,9121039,120? 16.974' E,22? 36.135' N,141,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416126600,Taiwan (Province of China),20/02/2025 16:03:02,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.143' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416004191,Taiwan (Province of China),20/02/2025 16:03:02,SEAGREEN NO15,22.5959,120.2843,360,0,9406295,120? 17.057' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416247700,Taiwan (Province of China),20/02/2025 16:03:02,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416002974,Taiwan (Province of China),20/02/2025 16:03:02,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416006765,Taiwan (Province of China),20/02/2025 16:03:02,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416011751,Taiwan (Province of China),20/02/2025 16:03:03,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+576638000,Vanuatu (Republic of),20/02/2025 16:03:03,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.172' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004602,Taiwan (Province of China),20/02/2025 16:03:03,TIPM NO.15401,22.555,120.3204,57.1,10.2,0,120? 19.223' E,22? 33.298' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416004261,Taiwan (Province of China),20/02/2025 16:03:03,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.186' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416005047,Taiwan (Province of China),20/02/2025 16:03:04,TIPM NO.13401,22.5338,120.303,283.9,0,0,120? 18.180' E,22? 32.027' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+457601000,Mongolia,20/02/2025 16:03:04,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005691,Taiwan (Province of China),20/02/2025 16:03:04,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+416000017,Taiwan (Province of China),20/02/2025 16:03:04,YU TAI NO.403,22.5948,120.288,236.1,0.2,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416000021,Taiwan (Province of China),20/02/2025 16:03:04,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+629009312,Gambia (Republic of the),20/02/2025 16:03:04,XIN YUAN,22.5818,120.2957,288,0,9126106,120? 17.740' E,22? 34.910' N,232,15,85,KOHSIUNG            ,Cargo-all ships of this type
+416004115,Taiwan (Province of China),20/02/2025 16:03:05,DAH LIN NO.9,22.5389,120.3359,360,0,0,120? 20.156' E,22? 32.335' N,511,12,36,KAOHSIUNG PORT@@@@@@,Vessel-Towing
+457556000,Mongolia,20/02/2025 16:03:05,EVER  DELIGHT,91,181,360,102.3,8358661,Not available (default),Not available (default),511,16,96,KAOHSIUNG           ,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:03:05,SHING FU,22.6195,120.2698,183.2,3.6,0,120? 16.186' E,22? 37.173' N,174,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+510069000,Micronesia (Federated States of),20/02/2025 16:03:05,QUEEN ISABELLA 88,22.6135,120.2719,278.4,0,0,120? 16.316' E,22? 36.807' N,303,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004865,Taiwan (Province of China),20/02/2025 16:03:05,HSIANG PERNG NO.212,22.5968,120.2817,57.4,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+416012541,Taiwan (Province of China),20/02/2025 16:03:05,KMSC NO.901,22.5946,120.2894,293.6,8.6,0,120? 17.362' E,22? 35.677' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+416005437,Taiwan (Province of China),20/02/2025 16:03:05,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.632' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+386900017,not in use,20/02/2025 16:03:05,3869-17-59%,22.5898,120.2898,65.9,0,,120? 17.389' E,22? 35.386' N,,,,,
+416004047,Taiwan (Province of China),20/02/2025 16:03:06,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+212714000,Cyprus (Republic of),20/02/2025 16:03:06,VANCOUVER,22.5736,120.3075,88.2,0,,120? 18.451' E,22? 34.416' N,322,,,,
+677011100,Tanzania (United Republic of),20/02/2025 16:03:06,HAI FA,22.582,120.2954,269.3,0,9072991,120? 17.726' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+538010853,Marshall Islands (Republic of the),20/02/2025 16:03:06,FAIRCHEM PATHFINDER,22.5865,120.2945,148.5,3.6,9975301,120? 17.667' E,22? 35.192' N,147,27,158,TW KHH              ,Tanker-all ships of this type
+306045000,Netherlands Antilles,20/02/2025 16:03:06,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.660' N,0,9,53,KHH                 ,Cargo-all ships of this type
+477347200,Hong Kong (Special Administrative Region of China),20/02/2025 16:03:06,GLORY TIANJIN,22.5298,120.2174,72.4,6.3,,120? 13.044' E,22? 31.786' N,78,,,,
+416000021,Taiwan (Province of China),20/02/2025 16:03:06,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.120' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+667001736,Sierra Leone,20/02/2025 16:03:07,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416015927,Taiwan (Province of China),20/02/2025 16:03:07,KAO 506,22.6138,120.2881,183.4,0,0,120? 17.286' E,22? 36.826' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416003923,Taiwan (Province of China),20/02/2025 16:03:07,KAO NO.112,22.5945,120.2887,175.1,1.5,0,120? 17.322' E,22? 35.668' N,511,14,89,KOH                 ,Tug
+677040400,Tanzania (United Republic of),20/02/2025 16:03:07,HUNG CHENG,22.6139,120.2835,293.3,0,8864335,120? 17.011' E,22? 36.831' N,511,10,58,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416459000,Taiwan (Province of China),20/02/2025 16:03:08,UNI PROSPER,22.5412,120.303,292,5.1,,120? 18.181' E,22? 32.474' N,294,,,,
+212366000,Cyprus (Republic of),20/02/2025 16:03:08,HANDY STRANGER,22.6102,120.2821,145.7,0,9643453,120? 16.926' E,22? 36.613' N,58,30,182,KAOHSIUNG           ,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:03:08,SHING FU,22.6195,120.2698,182.9,3.9,0,120? 16.186' E,22? 37.169' N,174,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416005338,Taiwan (Province of China),20/02/2025 16:03:08,TIPM 16401,22.552,120.3188,96.5,8.9,0,120? 19.128' E,22? 33.122' N,511,7,33,@@@@@@@@@@@@@@@@@@@@,Tug
+994166013,Taiwan (Province of China),20/02/2025 16:03:09,NORTH BREAKWATER,22.621,120.2572,,,,120? 15.430' E,22? 37.260' N,,,,,
+994166014,Taiwan (Province of China),20/02/2025 16:03:09,SOUTH BREAKWATER,22.6178,120.2565,,,,120? 15.390' E,22? 37.070' N,,,,,
+563245300,Singapore (Republic of),20/02/2025 16:03:09,EVER MOST,22.5469,120.2832,268.1,8.2,,120? 16.994' E,22? 32.814' N,268,,,,
+306406000,Netherlands Antilles,20/02/2025 16:03:09,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,226,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416001900,Taiwan (Province of China),20/02/2025 16:03:09,YUAN TAI NO.806,22.5666,120.3133,360,0,790066300,120? 18.801' E,22? 33.997' N,511,0,0,SINGAPORE@@@@@@@@@@@,Cargo-all ships of this type
+416008845,Taiwan (Province of China),20/02/2025 16:03:09,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+511101274,Palau (Republic of),20/02/2025 16:03:09,HONG LI,22.6034,120.2821,41,0.1,9036894,120? 16.928' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+667001467,Sierra Leone,20/02/2025 16:03:10,VINCENT 2,22.6023,120.2829,310.2,0.1,9121039,120? 16.974' E,22? 36.135' N,141,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+352004013,Panama (Republic of),20/02/2025 16:03:10,FU HUI,22.5885,120.2948,290.7,0,1064869,120? 17.686' E,22? 35.311' N,149,18,115,TW KHH              ,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:03:10,FORMOSA NO.8,22.5997,120.2827,360,0,0,120? 16.959' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416000095,Taiwan (Province of China),20/02/2025 16:03:10,YIN LIAN,22.5964,120.2898,154.6,0,0,120? 17.390' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:03:10,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.821' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004697,Taiwan (Province of China),20/02/2025 16:03:11,KAO 505,22.6102,120.2726,72,0,967097500,120? 16.357' E,22? 36.614' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416247700,Taiwan (Province of China),20/02/2025 16:03:11,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006752,Taiwan (Province of China),20/02/2025 16:03:11,TA YU,22.5946,120.2911,316.7,0,0,120? 17.464' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416006501,Taiwan (Province of China),20/02/2025 16:03:12,SEA GREEN NO 16,22.5398,120.3355,360,0,0,120? 20.131' E,22? 32.387' N,511,20,40,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+416004191,Taiwan (Province of China),20/02/2025 16:03:12,SEAGREEN NO15,22.5958,120.2843,360,0,9406295,120? 17.057' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+416011751,Taiwan (Province of China),20/02/2025 16:03:12,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416008937,Taiwan (Province of China),20/02/2025 16:03:12,TIPM NO.15003,22.5867,120.2942,150,3.6,0,120? 17.651' E,22? 35.203' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416006765,Taiwan (Province of China),20/02/2025 16:03:12,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,236,0,0,KHH                 ,Vessel-Pleasure craft
+416008938,Taiwan (Province of China),20/02/2025 16:03:12,TIMP NO.15005,22.5858,120.2948,142.9,3.5,0,120? 17.690' E,22? 35.146' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416006768,Taiwan (Province of China),20/02/2025 16:03:13,DONG PING NO.9,22.5972,120.2994,189.2,0,0,120? 17.962' E,22? 35.833' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416002974,Taiwan (Province of China),20/02/2025 16:03:13,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.776' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+416126600,Taiwan (Province of China),20/02/2025 16:03:13,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.143' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+576638000,Vanuatu (Republic of),20/02/2025 16:03:13,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.173' E,22? 36.184' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+386900019,not in use,20/02/2025 16:03:13,3869-19-49%,22.5895,120.2899,154.9,0.1,,120? 17.394' E,22? 35.372' N,,,,,
+416004261,Taiwan (Province of China),20/02/2025 16:03:13,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.186' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416000017,Taiwan (Province of China),20/02/2025 16:03:13,YU TAI NO.403,22.5948,120.288,163.3,0.4,0,120? 17.278' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416004602,Taiwan (Province of China),20/02/2025 16:03:14,TIPM NO.15401,22.5553,120.3208,50,10.2,0,120? 19.248' E,22? 33.316' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416018000,Taiwan (Province of China),20/02/2025 16:03:14,HONG YUN,22.5852,120.2368,166.7,0.3,9737010,120? 14.208' E,22? 35.109' N,44,32,184,TW KHH              ,"Tanker-carrying DG,HS,MP,IMO haz or pollutant X"
+416000021,Taiwan (Province of China),20/02/2025 16:03:14,YU MING NO:288,22.5853,120.3028,360,0.1,0,120? 18.166' E,22? 35.119' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+413690160,China (People's Republic of),20/02/2025 16:03:14,XIAO JIANG,22.6085,120.2826,228.5,0,9401269,120? 16.956' E,22? 36.511' N,152,16,116,KHH\\\              ,Cargo-all ships of this type
+386900019,not in use,20/02/2025 16:03:14,3869-19-49%,22.5895,120.2899,154.9,0.1,,120? 17.394' E,22? 35.372' N,,,,,
+416005691,Taiwan (Province of China),20/02/2025 16:03:15,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+306045000,Netherlands Antilles,20/02/2025 16:03:15,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.660' N,0,9,53,KHH                 ,Cargo-all ships of this type
+416004047,Taiwan (Province of China),20/02/2025 16:03:15,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416003945,Taiwan (Province of China),20/02/2025 16:03:15,S5 SUNG SHAN,22.6181,120.2782,309.8,0.4,0,120? 16.690' E,22? 37.087' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+457601000,Mongolia,20/02/2025 16:03:15,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+386900019,not in use,20/02/2025 16:03:15,3869-19-49%,22.5895,120.2899,154.9,0.1,,120? 17.394' E,22? 35.372' N,,,,,
+416012541,Taiwan (Province of China),20/02/2025 16:03:15,KMSC NO.901,22.5948,120.289,292.8,8.2,0,120? 17.338' E,22? 35.686' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+510069000,Micronesia (Federated States of),20/02/2025 16:03:15,QUEEN ISABELLA 88,22.6135,120.2719,252.3,0,0,120? 16.316' E,22? 36.807' N,302,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+677011100,Tanzania (United Republic of),20/02/2025 16:03:15,HAI FA,22.582,120.2955,270.6,0,9072991,120? 17.727' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+416015927,Taiwan (Province of China),20/02/2025 16:03:16,KAO 506,22.6138,120.2881,183.4,0,0,120? 17.286' E,22? 36.827' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416005437,Taiwan (Province of China),20/02/2025 16:03:16,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.632' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+386900019,not in use,20/02/2025 16:03:16,3869-19-49%,22.5895,120.2899,154.9,0.1,,120? 17.394' E,22? 35.372' N,,,,,
+416005690,Taiwan (Province of China),20/02/2025 16:03:16,NEW OCEANRESEARCHER1,22.6155,120.2834,21,0,9827504,120? 17.006' E,22? 36.930' N,296,15,66,TWKHH               ,"Vessel-Towing, Tow Length > 200m or breadth > 25m"
+416001323,Taiwan (Province of China),20/02/2025 16:03:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:03:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:03:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:03:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416001323,Taiwan (Province of China),20/02/2025 16:03:17,@@@I*ELCOBR@@C?) BB,22.6126,120.2709,200.1,0,,120? 16.254' E,22? 36.753' N,,0,0,,
+416003923,Taiwan (Province of China),20/02/2025 16:03:17,KAO NO.112,22.5944,120.2887,180.3,1.3,0,120? 17.322' E,22? 35.664' N,511,14,89,KOH                 ,Tug
+386900019,not in use,20/02/2025 16:03:17,3869-19-49%,22.5895,120.2899,154.9,0.1,,120? 17.394' E,22? 35.372' N,,,,,
+667001736,Sierra Leone,20/02/2025 16:03:17,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416005452,Taiwan (Province of China),20/02/2025 16:03:18,CHUNG YU NO.22,22.5845,120.3008,40,0,9814571,120? 18.048' E,22? 35.070' N,50,16,75,KAOSHIUNG           ,Tanker-all ships of this type
+416459000,Taiwan (Province of China),20/02/2025 16:03:18,UNI PROSPER,22.5413,120.3028,292,5,,120? 18.166' E,22? 32.479' N,294,,,,
+416003885,Taiwan (Province of China),20/02/2025 16:03:18,SHING FU,22.6193,120.2698,181.4,4.4,0,120? 16.186' E,22? 37.157' N,179,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+544113120,Nauru (Republic of),20/02/2025 16:03:19,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.822' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+563245300,Singapore (Republic of),20/02/2025 16:03:19,EVER MOST,22.5469,120.2828,266.9,8.4,,120? 16.968' E,22? 32.814' N,267,,,,
+416000095,Taiwan (Province of China),20/02/2025 16:03:20,YIN LIAN,22.5964,120.2899,154.6,0.1,0,120? 17.391' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+416008845,Taiwan (Province of China),20/02/2025 16:03:20,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+667001467,Sierra Leone,20/02/2025 16:03:20,VINCENT 2,22.6023,120.2829,309.3,0.1,9121039,120? 16.974' E,22? 36.135' N,141,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006752,Taiwan (Province of China),20/02/2025 16:03:20,TA YU,22.5946,120.2911,316.7,0,0,120? 17.464' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:03:20,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416004697,Taiwan (Province of China),20/02/2025 16:03:20,KAO 505,22.6102,120.2726,107.1,0,967097500,120? 16.357' E,22? 36.614' N,145,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+416001900,Taiwan (Province of China),20/02/2025 16:03:21,YUAN TAI NO.806,22.5666,120.3133,360,0,790066300,120? 18.801' E,22? 33.997' N,511,0,0,SINGAPORE@@@@@@@@@@@,Cargo-all ships of this type
+511101274,Palau (Republic of),20/02/2025 16:03:21,HONG LI,22.6034,120.2822,42.4,0.1,9036894,120? 16.929' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:03:21,FORMOSA NO.8,22.5997,120.2827,360,0,0,120? 16.959' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416005003,Taiwan (Province of China),20/02/2025 16:03:21,HUNG YU NO.1,22.5468,120.3121,334.6,0,0,120? 18.725' E,22? 32.805' N,511,33,80,@@@@@@@@@@@@@@@@@@@@,Other type of ship-all ships of this type
+416008938,Taiwan (Province of China),20/02/2025 16:03:21,TIMP NO.15005,22.5856,120.2949,143.4,3.4,0,120? 17.696' E,22? 35.138' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+356398000,Panama (Republic of),20/02/2025 16:03:21,PACIFIC WIND,22.6097,120.2862,266.6,0,9883508,120? 17.172' E,22? 36.585' N,117,32,199,TW KHH              ,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:03:21,SHING FU,22.6192,120.2698,178,4.4,0,120? 16.186' E,22? 37.154' N,175,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416004191,Taiwan (Province of China),20/02/2025 16:03:22,SEAGREEN NO15,22.5958,120.2843,360,0,9406295,120? 17.057' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+576638000,Vanuatu (Republic of),20/02/2025 16:03:22,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.173' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006765,Taiwan (Province of China),20/02/2025 16:03:22,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+416011751,Taiwan (Province of China),20/02/2025 16:03:22,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416126600,Taiwan (Province of China),20/02/2025 16:03:22,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.143' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416008937,Taiwan (Province of China),20/02/2025 16:03:22,TIPM NO.15003,22.5866,120.2943,149.6,3.6,0,120? 17.657' E,22? 35.195' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+677040400,Tanzania (United Republic of),20/02/2025 16:03:22,HUNG CHENG,22.6139,120.2835,293.3,0,8864335,120? 17.011' E,22? 36.831' N,511,10,58,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416002974,Taiwan (Province of China),20/02/2025 16:03:22,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.775' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+375186000,Saint Vincent and the Grenadines,20/02/2025 16:03:23,SALVAGE ROVER,22.6135,120.2723,168.2,0,9257515,120? 16.339' E,22? 36.809' N,122,15,64,KHH TW              ,Tug
+416005691,Taiwan (Province of China),20/02/2025 16:03:23,SEN KOH NO.8,22.5861,120.2925,360,0,0,120? 17.548' E,22? 35.166' N,511,30,102,@@@@@@@@@@@@@@@@@@@@,Spare - for local use
+677054600,Tanzania (United Republic of),20/02/2025 16:03:23,CHENG TAI,22.5819,120.2958,251,0,8854122,120? 17.749' E,22? 34.912' N,511,12,63,NINGBO@@@@@@@@@@@@@@,Cargo-all ships of this type
+416004602,Taiwan (Province of China),20/02/2025 16:03:24,TIPM NO.15401,22.5556,120.3212,51.3,10,0,120? 19.274' E,22? 33.336' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416000021,Taiwan (Province of China),20/02/2025 16:03:24,YU MING NO:288,22.5853,120.3028,360,0,0,120? 18.166' E,22? 35.119' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Pleasure craft
+416362000,Taiwan (Province of China),20/02/2025 16:03:24,BAO SHAN NO.3,22.5575,120.316,314.8,0.1,9276456,120? 18.958' E,22? 33.447' N,322,18,90,KAOHSIUNG@@@@@@@@@@@,Tanker-all ships of this type
+416004524,Taiwan (Province of China),20/02/2025 16:03:24,YU JING 245,22.6175,120.2794,360,0,0,120? 16.761' E,22? 37.052' N,511,9,54,@@@@@@@@@@@@@@@@@@@@,Tug
+416004261,Taiwan (Province of China),20/02/2025 16:03:24,YU CHIN NO.302,22.5855,120.3031,0,0,0,120? 18.186' E,22? 35.132' N,511,9,29,@@@@@@@@@@@@@@@@@@@@,Vessel-Towing
+416005047,Taiwan (Province of China),20/02/2025 16:03:24,TIPM NO.13401,22.5338,120.303,283.9,0.1,0,120? 18.181' E,22? 32.027' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416003885,Taiwan (Province of China),20/02/2025 16:03:24,SHING FU,22.6192,120.2698,174.6,4.5,0,120? 16.186' E,22? 37.150' N,172,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416005048,Taiwan (Province of China),20/02/2025 16:03:25,TIPM NO.13402,22.5448,120.3006,324.3,9.3,0,120? 18.037' E,22? 32.686' N,511,10,35,@@@@@@@@@@@@@@@@@@@@,Tug
+457556000,Mongolia,20/02/2025 16:03:25,EVER  DELIGHT,91,181,360,102.3,8358661,Not available (default),Not available (default),511,16,96,KAOHSIUNG           ,Cargo-all ships of this type
+416000017,Taiwan (Province of China),20/02/2025 16:03:25,YU TAI NO.403,22.5948,120.288,151.4,0.2,0,120? 17.279' E,22? 35.689' N,511,11,30,@@@@@@@@@@@@@@@@@@@@,Tug
+416003945,Taiwan (Province of China),20/02/2025 16:03:25,S5 SUNG SHAN,22.6181,120.2782,309.8,0.4,0,120? 16.690' E,22? 37.087' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+416004047,Taiwan (Province of China),20/02/2025 16:03:25,TA YING,22.5991,120.2884,104.2,0,0,120? 17.302' E,22? 35.948' N,511,0,0,KAOHSIUNG@@@@@@@@@@@,Cargo-all ships of this type
+416004865,Taiwan (Province of China),20/02/2025 16:03:25,HSIANG PERNG NO.212,22.5968,120.2817,101.6,0,,120? 16.904' E,22? 35.805' N,,7,45,,
+416012541,Taiwan (Province of China),20/02/2025 16:03:25,KMSC NO.901,22.5949,120.2886,290.5,8.4,0,120? 17.315' E,22? 35.695' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Port tender
+416005437,Taiwan (Province of China),20/02/2025 16:03:25,SOLARIS 2,22.582,120.2939,360,0,0,120? 17.632' E,22? 34.922' N,511,8,20,HYDRO SURVEY@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+457601000,Mongolia,20/02/2025 16:03:26,MACRO,22.5999,120.2816,205.4,0,0,120? 16.894' E,22? 35.992' N,511,2,2,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006146,Taiwan (Province of China),20/02/2025 16:03:26,HUNG YI NO.2,22.546,120.3057,48.1,0,0,120? 18.340' E,22? 32.758' N,511,12,32,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+306045000,Netherlands Antilles,20/02/2025 16:03:26,GUANYANG,22.611,120.2739,168.3,0,9110250,120? 16.437' E,22? 36.659' N,0,9,53,KHH                 ,Cargo-all ships of this type
+538010853,Marshall Islands (Republic of the),20/02/2025 16:03:26,FAIRCHEM PATHFINDER,22.5862,120.2946,147.8,3.5,9975301,120? 17.678' E,22? 35.174' N,145,27,158,TW KHH              ,Tanker-all ships of this type
+510069000,Micronesia (Federated States of),20/02/2025 16:03:26,QUEEN ISABELLA 88,22.6135,120.2719,227.4,0,0,120? 16.316' E,22? 36.807' N,302,30,15,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416015927,Taiwan (Province of China),20/02/2025 16:03:26,KAO 506,22.6138,120.2881,183.4,0,0,120? 17.286' E,22? 36.828' N,511,15,40,KHH@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+477642500,Hong Kong (Special Administrative Region of China),20/02/2025 16:03:26,NICOLINE MAERSK,22.5556,120.3265,207.3,0,9192466,120? 19.587' E,22? 33.338' N,143,30,199,CN NSA>TW KHH       ,Cargo-all ships of this type
+372125000,Panama (Republic of),20/02/2025 16:03:27,KAMNIK,22.5854,120.2968,284.5,0,9657571,120? 17.808' E,22? 35.124' N,150,20,128,TW KHH              ,Cargo-all ships of this type
+677011100,Tanzania (United Republic of),20/02/2025 16:03:27,HAI FA,22.582,120.2955,271.2,0,9072991,120? 17.727' E,22? 34.922' N,511,12,74,KAOXIONG            ,Cargo-all ships of this type
+667001736,Sierra Leone,20/02/2025 16:03:27,HUA HANG,22.6138,120.287,0,0,8864282,120? 17.221' E,22? 36.830' N,511,12,71,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416003923,Taiwan (Province of China),20/02/2025 16:03:27,KAO NO.112,22.5944,120.2887,188.9,1.1,0,120? 17.322' E,22? 35.662' N,511,14,89,KOH                 ,Tug
+416008865,Taiwan (Province of China),20/02/2025 16:03:28,TRITON 8,22.5659,120.3087,271.2,0,9486776,120? 18.524' E,22? 33.956' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Reserved for future use
+416459000,Taiwan (Province of China),20/02/2025 16:03:28,UNI PROSPER,22.5414,120.3025,292,5,,120? 18.153' E,22? 32.484' N,294,,,,
+312888000,Belize,20/02/2025 16:03:28,XIN HAI 799,22.5918,120.2928,0,0,9819208,120? 17.570' E,22? 35.506' N,150,16,97,TW KHH@@@@@@@@@@@@@@,Cargo-all ships of this type
+352003319,Panama (Republic of),20/02/2025 16:03:28,JOYFUL SPIRIT,22.5907,120.2934,47.4,0,9590022,120? 17.602' E,22? 35.442' N,146,20,120,TW KHH              ,Cargo-all ships of this type
+416003885,Taiwan (Province of China),20/02/2025 16:03:29,SHING FU,22.6191,120.2698,171.2,4.7,0,120? 16.186' E,22? 37.145' N,167,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416000095,Taiwan (Province of China),20/02/2025 16:03:29,YIN LIAN,22.5964,120.2899,154.6,0.1,0,120? 17.392' E,22? 35.782' N,356,11,76,LONG MEN - KAOHSIUNG,Cargo-all ships of this type
+563245300,Singapore (Republic of),20/02/2025 16:03:29,EVER MOST,22.5469,120.2824,267.5,8.5,,120? 16.942' E,22? 32.813' N,267,,,,
+306406000,Netherlands Antilles,20/02/2025 16:03:30,XING YUN 101,22.595,120.2833,125.6,0,0,120? 16.997' E,22? 35.698' N,225,8,29,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416000018,Taiwan (Province of China),20/02/2025 16:03:30,FORMOSA NO.8,22.5997,120.2827,360,0,0,120? 16.959' E,22? 35.979' N,511,11,28,TW_KHH              ,Tug
+416008845,Taiwan (Province of China),20/02/2025 16:03:30,TRITON1,22.594,120.2861,168.1,0,9495894,120? 17.166' E,22? 35.639' N,511,10,34,@@@@@@@@@@@@@@@@@@@@,Port tender
+544113120,Nauru (Republic of),20/02/2025 16:03:30,EASTERN STAR,22.597,120.2855,237.3,0,8996097,120? 17.130' E,22? 35.822' N,511,14,89,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+667001467,Sierra Leone,20/02/2025 16:03:30,VINCENT 2,22.6023,120.2829,320.2,0.1,9121039,120? 16.974' E,22? 36.135' N,141,17,107,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416004697,Taiwan (Province of China),20/02/2025 16:03:30,KAO 505,22.6103,120.2726,117.4,0,967097500,120? 16.357' E,22? 36.615' N,146,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel-Engaged in dredging or underwater operations
+511101274,Palau (Republic of),20/02/2025 16:03:30,HONG LI,22.6034,120.2822,43.8,0.1,9036894,120? 16.929' E,22? 36.203' N,511,13,74,@@@@@@@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006752,Taiwan (Province of China),20/02/2025 16:03:30,TA YU,22.5946,120.2911,316.7,0,0,120? 17.464' E,22? 35.677' N,339,13,60,KINMEN              ,Cargo-all ships of this type
+563126100,Singapore (Republic of),20/02/2025 16:03:30,GLORY MAJESTY,22.5949,120.2421,28.3,0.1,9894026,120? 14.525' E,22? 35.694' N,30,19,104,KAOHSIUNG           ,Cargo-all ships of this type
+351366000,Panama (Republic of),20/02/2025 16:03:31,HEUNG-A PIONEER,22.5933,120.2888,13,0,9415478,120? 17.328' E,22? 35.595' N,148,21,125,TWKHH               ,Tanker-all ships of this type
+416247700,Taiwan (Province of China),20/02/2025 16:03:31,HAI YAO,22.5927,120.2874,360,0,0,120? 17.246' E,22? 35.562' N,511,7,35,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416003885,Taiwan (Province of China),20/02/2025 16:03:31,SHING FU,22.619,120.2698,169.5,4.8,0,120? 16.187' E,22? 37.141' N,165,0,0,@@@@@@@@@@@@@@@@@@@@,Passenger-all ships of this type
+416011751,Taiwan (Province of China),20/02/2025 16:03:31,SHENG YI FA168,22.5925,120.2871,273.1,0,0,120? 17.226' E,22? 35.550' N,511,8,37,KHH                 ,Vessel=Fishing
+416008938,Taiwan (Province of China),20/02/2025 16:03:31,TIMP NO.15005,22.5855,120.295,142.5,3.5,0,120? 17.702' E,22? 35.130' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Tug
+416004191,Taiwan (Province of China),20/02/2025 16:03:32,SEAGREEN NO15,22.5958,120.2843,360,0,9406295,120? 17.057' E,22? 35.751' N,511,40,55,TW KHH 1508W        ,Vessel-Towing
+677054600,Tanzania (United Republic of),20/02/2025 16:03:32,CHENG TAI,22.5819,120.2958,251,0,8854122,120? 17.749' E,22? 34.912' N,511,12,63,NINGBO@@@@@@@@@@@@@@,Cargo-all ships of this type
+416006768,Taiwan (Province of China),20/02/2025 16:03:32,DONG PING NO.9,22.5972,120.2994,189.2,0,0,120? 17.962' E,22? 35.833' N,511,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416126600,Taiwan (Province of China),20/02/2025 16:03:32,YU DING N0 303,22.5857,120.3039,360,0,0,120? 18.232' E,22? 35.143' N,511,9,35,@@@@@@@@@@@@@@@@@@@@,Tug
+416080000,Taiwan (Province of China),20/02/2025 16:03:32,CSBC NO.16,22.5476,120.3375,38.9,0,9559030,120? 20.248' E,22? 32.855' N,511,19,77,KHH@@@@@@@@@@@@@@@@@,Port tender
+416007289,Taiwan (Province of China),20/02/2025 16:03:32,YUAN MAN JIN,22.5535,120.3383,271.7,0,0,120? 20.296' E,22? 33.211' N,271,0,0,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
+416006765,Taiwan (Province of China),20/02/2025 16:03:33,VENTUS XINGANG,22.5996,120.2816,360,0,990981900,120? 16.896' E,22? 35.976' N,235,0,0,KHH                 ,Vessel-Pleasure craft
+375186000,Saint Vincent and the Grenadines,20/02/2025 16:03:33,SALVAGE ROVER,22.6135,120.2723,168.2,0,9257515,120? 16.341' E,22? 36.809' N,121,15,64,KHH TW              ,Tug
+416002974,Taiwan (Province of China),20/02/2025 16:03:33,DONG LIAN NO.8,22.5963,120.2998,349.1,0,0,120? 17.990' E,22? 35.775' N,511,2,14,@@@@@@@@@@@@@@@@@@@@,Tug
+576638000,Vanuatu (Republic of),20/02/2025 16:03:33,LONGBOW NO.7,22.6031,120.2862,13.7,0,8956683,120? 17.173' E,22? 36.183' N,511,9,46,@@@@@@@@@@@@@@@@@@@@,Vessel=Fishing
