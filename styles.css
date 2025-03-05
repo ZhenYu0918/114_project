@@ -1,0 +1,29 @@
+#map {
+    height: 100vh;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.ship-popup {
+    font-size: 14px;
+}
+
+.ship-popup h3 {
+    margin: 0 0 10px 0;
+    color: #333;
+}
+
+.ship-info {
+    margin: 5px 0;
+}
+
+.info.legend {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+} 
